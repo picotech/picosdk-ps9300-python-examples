@@ -1,6 +1,6 @@
-# picosdk-python-examples
+# picosdk-ps9000-python-examples
 
-*picosdk-python-examples* contains an example Python module for demonstrating how to control the PicoScope® 9200 and PicoScope 9300 Series PC Sampling Oscilloscopes using ActiveX..
+*picosdk-ps9000-python-examples* contains an example Python module for demonstrating how to control the PicoScope® 9200 and PicoScope 9300 Series PC Sampling Oscilloscopes using ActiveX..
 
 ## Getting started
 
