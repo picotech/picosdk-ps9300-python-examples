@@ -8,12 +8,14 @@
 
 #### PicoScope 9300 Series
 
-* PicoScope 9301-25
+* PicoScope 9301
 * PicoScope 9302 
 * PicoScope 9311 
 * PicoScope 9312 
 * PicoScope 9321 
-* PicoScope 9341-25
+* PicoScope 9341
+
+The above list includes all -15, -20 and -25 models.
 
 #### Python
 * [Python 2.7](https://www.python.org/download/releases/2.7/) 
@@ -51,7 +53,7 @@ Contributions are welcome. Please refer to our [guidelines for contributing](.gi
 
 See [LICENSE.md](LICENSE.md) for license terms. 
 
-*PicoSample* is a registered trademark of Pico Technology Ltd. 
+*PicoScope* and *PicoSample* are registered trademark of Pico Technology Ltd. 
 
 *Windows* is a registered trademark of Microsoft Corporation. 
 
