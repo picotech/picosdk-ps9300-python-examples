@@ -18,7 +18,7 @@
 The above list includes all -15, -20 and -25 models.
 
 #### Python
-* [Python 2.7](https://www.python.org/download/releases/2.7/) 
+* [Python 2.7](https://www.python.org/download/releases/2.7/), or
 * [Python 3.6](https://www.python.org/download/releases/3.6/) 
 * [win32com]
 * [numpy]
@@ -35,11 +35,11 @@ The above list includes all -15, -20 and -25 models.
 ### Installing the python driver wrapper
 
 A COM object driver wrapper created using the win32 module for the *PicoSample* COM object is included in these examples.
-This is require for running these examples to be able to communicate with the COM object to control the 9000 series device.
+This is required for running these examples to be able to communicate with the COM object to control the 9000 series device.
 
 ### Programmer's Guides
 
-You can download Programmer's Guides providing a description of the API functions for the 9000 series from our [Documentation page](https://www.picotech.com/library/documentation).
+You can download Programmer's Guides providing a description of the API functions for the PicoScope 9000 Series from our [Documentation page](https://www.picotech.com/library/documentation).
 
 ## Obtaining support
 
