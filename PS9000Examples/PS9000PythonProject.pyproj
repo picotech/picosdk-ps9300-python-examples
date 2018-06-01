@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e934e70e-623b-4869-971d-17a8665fa19e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PS9000Scripts.py</StartupFile>
+    <StartupFile>PS9000PythonExample.py</StartupFile>
     <SearchPath>C:\Users\neil.hamilton\AppData\Local\Temp\gen_py\2.7</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -22,17 +22,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="PicoSource3PythonWrapper\9823771F-3178-42FA-967D-693B85F1C54Ex0x1x0.py" />
-    <Compile Include="PS9000Scripts.py" />
+    <Compile Include="PS9000PythonExample.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda27-32" />
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda36-32" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="PicoSample3PythonWrapper\" />
     <Folder Include="PicoSource3PythonWrapper\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="PicoSource3PythonWrapper\9823771F-3178-42FA-967D-693B85F1C54Ex0x1x0.pyc" />
+    <Content Include="PicoSample3PythonWrapper\9823771F-3178-42FA-967D-693B85F1C54Ex0x1x0.pyc" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
