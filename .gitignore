@@ -19,6 +19,6 @@
 build/
 
 # Folders
-* .vs/
-* Release/ 
-* Debug/
+.vs/
+Release/ 
+Debug/
