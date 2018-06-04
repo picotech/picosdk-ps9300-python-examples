@@ -1,6 +1,6 @@
-# picosdk-ps9000-python-examples
+# picosdk-ps9300-python-examples
 
-*picosdk-ps9000-python-examples* contains an example Python module for demonstrating how to control the PicoScope 9300 Series PC Sampling Oscilloscopes using ActiveX.
+*picosdk-ps9300-python-examples* contains an example Python module for demonstrating how to control PicoScope 9300 Series PC Sampling Oscilloscopes using ActiveX.
 
 ## Getting started
 
@@ -18,11 +18,14 @@
 The above list includes all -15, -20 and -25 models.
 
 #### Python
+
 * [Python 2.7](https://www.python.org/download/releases/2.7/), or
 * [Python 3.6](https://www.python.org/download/releases/3.6/) 
 * [win32com]
 * [numpy]
 * [matplotlib]
+
+*Note:* Anaconda 5.0.0 can also be installed to provide the above.
 
 #### Windows
 
@@ -35,7 +38,7 @@ The above list includes all -15, -20 and -25 models.
 ### Installing the python driver wrapper
 
 A COM object driver wrapper created using the win32 module for the *PicoSample* COM object is included in these examples.
-This is required for running these examples to be able to communicate with the COM object to control the 9000 series device.
+This is required for running these examples in order to communicate with the COM object to control the 9000 series device.
 
 ### Programmer's Guides
 
