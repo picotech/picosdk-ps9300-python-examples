@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PS9000Scripts", "PS9000Examples\PS9000PythonProject.pyproj", "{E934E70E-623B-4869-971D-17A8665FA19E}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PS9300PythonProject", "PS9000Examples\PS9300PythonProject.pyproj", "{E934E70E-623B-4869-971D-17A8665FA19E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

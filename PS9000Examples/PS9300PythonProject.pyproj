@@ -3,12 +3,13 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e934e70e-623b-4869-971d-17a8665fa19e</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>PS9000PythonExample.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>PS9300PythonExample.py</StartupFile>
     <SearchPath>C:\Users\neil.hamilton\AppData\Local\Temp\gen_py\2.7</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PS9000Scripts</Name>
+    <Name>PS9300PythonProject</Name>
     <RootNamespace>PS9000Scripts</RootNamespace>
     <InterpreterId>Global|ContinuumAnalytics|Anaconda27-32</InterpreterId>
   </PropertyGroup>
@@ -21,8 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PicoSource3PythonWrapper\9823771F-3178-42FA-967D-693B85F1C54Ex0x1x0.py" />
-    <Compile Include="PS9000PythonExample.py" />
+    <Compile Include="PS9300PythonExample.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda27-32" />
@@ -30,7 +30,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PicoSample3PythonWrapper\" />
-    <Folder Include="PicoSource3PythonWrapper\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="PicoSample3PythonWrapper\9823771F-3178-42FA-967D-693B85F1C54Ex0x1x0.pyc" />
