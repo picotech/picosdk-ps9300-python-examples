@@ -1,8 +1,8 @@
 #
-# Copyright (C) 2015-2017 Pico Technology Ltd. See LICENSE file for terms.
+# Copyright (C) 2018 Pico Technology Ltd. See LICENSE file for terms.
 #
 """
-This is a Python script for controlling a PS9300 sampling ocsilloscope using the PicoSample3 COM object.
+This is a Python script for controlling a PicoScope 9300 Series sampling ocsilloscope using the PicoSample3 COM object.
 This will also work using the demo device in PicoSample3.
 """
 
