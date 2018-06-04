@@ -6,7 +6,7 @@
     <ProjectHome>
     </ProjectHome>
     <StartupFile>PS9300PythonExample.py</StartupFile>
-    <SearchPath>C:\Users\neil.hamilton\AppData\Local\Temp\gen_py\2.7</SearchPath>
+    <SearchPath></SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>PS9300PythonProject</Name>
