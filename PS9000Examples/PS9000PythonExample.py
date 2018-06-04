@@ -32,7 +32,7 @@ XOrg = COMRCW.ExecCommand("Wfm:Preamb:XOrg?") #get y axis origin
 #List1 = COMRCW.ExecCommand("Meas:Res:List?")
 #print(List1)
 freq = COMRCW.ExecCommand("Meas:Res:1?")
-print("Frequency =" + str(freq))
+print("Frequency = " + str(freq))
 riseTime = COMRCW.ExecCommand("Meas:Res:2?")
 print("Rise Time = " + str(riseTime))
 maximum = COMRCW.ExecCommand("Meas:Res:3?")
