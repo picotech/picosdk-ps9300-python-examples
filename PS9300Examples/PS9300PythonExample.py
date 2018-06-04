@@ -61,7 +61,7 @@ datatime = np.linspace(0, totaltime, len(data))
 
 # Plot data
 plt.plot(datatime, data)
-plt.title('PicoScope 9300 Series Example')
+plt.title('PicoScope 9300 Series Single Acquisition Example')
 plt.xlabel('Time (' + XU +')')
 plt.ylabel('Voltage (' + YU +')')
 plt.show()
