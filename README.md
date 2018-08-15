@@ -29,20 +29,20 @@ The above list includes all -15, -20 and -25 models.
 
 #### Windows
 
-* [Microsoft Visual Studio 2017](https://www.visualstudio.com/) (including Community edition) or later.  
+* [Microsoft Visual Studio 2017](https://www.visualstudio.com/) (including Community edition) or later (this is only required to open the solution files provided).
 
 ### Installing software
 
-* Download the *PicoSample* software for PicoScope 9300 Series models from our [Downloads page](https://www.picotech.com/downloads).
+* Download the *PicoSample 3* software for PicoScope 9300 Series models from our [Downloads page](https://www.picotech.com/downloads).
 
 ### Installing the python driver wrapper
 
 A COM object driver wrapper created using the win32 module for the *PicoSample* COM object is included in these examples.
-This is required for running these examples in order to communicate with the COM object to control the 9000 series device.
+This is required for running these examples in order to communicate with the COM object to control the PicoScope 9300 Series device.
 
 ### Programmer's Guides
 
-You can download Programmer's Guides providing a description of the API functions for the PicoScope 9000 Series from our [Documentation page](https://www.picotech.com/library/documentation).
+You can download Programmer's Guides providing a description of the API functions for the PicoScope 9300 Series from our [Documentation page](https://www.picotech.com/library/documentation).
 
 ## Obtaining support
 
@@ -56,7 +56,7 @@ Contributions are welcome. Please refer to our [guidelines for contributing](.gi
 
 See [LICENSE.md](LICENSE.md) for license terms. 
 
-*PicoScope* and *PicoSample* are registered trademark of Pico Technology Ltd. 
+*PicoScope* and *PicoSample* are registered trademarks of Pico Technology Ltd. 
 
 *Windows* is a registered trademark of Microsoft Corporation. 
 
