@@ -10,15 +10,15 @@
 **/*.exe
 
 # pycharm files
-.idea/
+**/idea
 
 # SDK download warning file
 .sdkwarning
 
 # build folder
-build/
+**/build
 
 # Folders
-../.vs/
-../Release/ 
-../Debug/
+**/.vs
+**/Release
+**/Debug
