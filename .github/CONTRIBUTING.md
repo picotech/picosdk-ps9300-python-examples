@@ -7,7 +7,7 @@ We welcome contributions to the picosdk-python-examples repository. By contribut
 1. Fork, then clone the repository:
 
 ```
-git clone https://github.com/YOUR-USERNAME/picosdk-python-examples.git
+git clone https://github.com/YOUR-USERNAME/picosdk-ps9300-python-examples.git
 ```
 
 2. Create a new branch - specify a name in lowercase, using hyphens to link words e.g. `fft-example`
