@@ -54,7 +54,7 @@ print("Peak-to-Peak = " + str(Pp))
 strdata = str(strdata)
 strdata = strdata.split(',')
 strdata = np.asarray(strdata)
-data = strdata.astype(np.float)
+data = strdata.astype(float)
 
 # Create time data array
 totaltime = len(data) * float(XInc)
